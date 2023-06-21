@@ -7,6 +7,7 @@ import { Main } from '../templates/Main';
 const About = () => (
   <Main meta={<Meta title="Lorem ipsum" description="Lorem ipsum" />}>
     <Content>
+      <p>Howdy do!</p>
       <p>
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione fuga
         recusandae quidem. Quaerat molestiae blanditiis doloremque possimus
